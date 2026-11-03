@@ -1,0 +1,38 @@
+﻿land_rec_id,applicant_name,father_name,dob,gender,mobile_no,address,district,last_updated
+REV1002,Kavita Sharma,Rahul Sharma,24-04-1989,Female,7369802709,"12 MG Rd, Navrangpura, Ahmedabad 380009",Ahmedabad,2026-03-12
+REV1004,Rahul Shah,,28-05-1985,Male,7223976539,"7 CG Road, Navrangpura, Ahmedabad 380009",Ahmedabad,2026-07-16
+REV1005,Meena Shah,Rahul Shah,02-09-1986,Female,7223976539,"7 CG Road, Navrangpura, Ahmedabad 380009",Ahmedabad,2026-07-11
+REV1007,Rahul Shah,Rahul Shah,15-03-2011,Male,7011288006,"7 CG Road, Navrangpura, Ahmedabad 380009",Ahmedabad,2026-09-09
+REV1008,Ramesh Patel,,02-02-1980,Male,7591851606,"45 Ashram Rd, Maninagar, Ahmedabad 380008",Ahmedabad,2026-08-16
+REV1009,Komal Patel,Ramesh Patel,22-02-1983,Female,7591851606,"45 Ashram Rd, Maninagar, Ahmedabad 380008",Ahmedabad,2026-05-22
+REV1010,Dinesh Desai,,02-01-1984,Male,7124596587,"101 Stn Rd, Alkapuri, Vadodara 390007",Vadodara,2026-06-13
+REV1011,Hetal Desai,Dinesh Desai,01-10-1986,Female,7124596587,"101 Stn Rd, Alkapuri, Vadodara 390007",Vadodara,2026-03-28
+REV1013,Nilesh Mehta,,16-05-1987,Male,7142119006,"23 Ring Rd, Adajan, Surat 395009",Surat,2026-04-03
+REV1014,Meena Mehta,Nilesh Mehta,21-11-1990,Female,7142119006,"23 Ring Rd, Adajan, Surat 395009",Surat,2026-06-05
+REV1016,Dinesh Joshi,,17-02-1984,Male,7734329866,"9 Kalawad Rd, Rajkot 360005",Rajkot,2026-01-23
+REV1017,Anita Joshi,Dinesh Joshi,05-12-1985,Female,7734329866,"9 Kalawad Rd, Rajkot 360005",Rajkot,2026-05-27
+REV1018,Jignesh Parmar,,16-11-1968,Male,6026351345,"56 Sec 21, Gandhinagar 382021",Gandhinagar,2026-09-10
+REV1019,Komal Parmar,Jignesh Parmar,17-01-1970,Female,6026351345,"56 Sec 21, Gandhinagar 382021",Gandhinagar,2026-03-27
+REV1021,Rahul Chauhan,,18-08-1974,Male,6282098228,"88 MG Rd, Navrangpura, Ahmedabad 380009",Ahmedabad,2026-01-27
+REV1022,Meena Chauhan,Rahul Chauhan,24-07-1975,Female,6282098228,"88 MG Rd, Navrangpura, Ahmedabad 380009",Ahmedabad,2026-06-11
+REV1023,Geeta Chauhan,Rahul Chauhan,06-06-1999,Female,6282098228,"88 MG Rd, Navrangpura, Ahmedabad 380009",Ahmedabad,2026-10-10
+REV1024,Vijay Trivedi,,10-11-1990,Male,6446387975,"14 CG Road, Navrangpura, Ahmedabad 380009",Ahmedabad,2026-02-03
+REV1025,Pooja Trivedi,Vijay Trivedi,27-01-1994,Female,6446387975,"14 CG Road, Navrangpura, Ahmedabad 380009",Ahmedabad,2026-06-19
+REV1026,Suresh Solanki,,23-09-1970,Male,8600942943,"3 Ashram Rd, Maninagar, Ahmedabad 380008",Ahmedabad,2026-08-17
+REV1027,Sonal Solanki,Suresh Solanki,20-12-1974,Female,8600942943,"3 Ashram Rd, Maninagar, Ahmedabad 380008",Ahmedabad,2026-01-18
+REV1028,Rahul Solanki,Suresh Solanki,15-04-1997,Male,8600942943,"3 Ashram Rd, Maninagar, Ahmedabad 380008",Ahmedabad,2026-08-12
+REV1029,Arjun Sharma,,25-02-1984,Male,6810099126,"210 Stn Rd, Alkapuri, Vadodara 390007",Vadodara,2026-05-15
+REV1030,Geeta Sharma,Arjun Sharma,16-02-1987,Female,6810099126,"210 Stn Rd, Alkapuri, Vadodara 390007",Vadodara,2026-03-10
+REV1032,Vijay Shah,,10-02-1984,Male,9494171573,"31 Ring Rd, Adajan, Surat 395009",Surat,2026-10-12
+REV1033,Priya Shah,Vijay Shah,22-12-1986,Female,9494171573,"31 Ring Rd, Adajan, Surat 395009",Surat,2026-02-26
+REV1034,Vijay Patel,,24-08-1984,Male,8270997177,"64 Kalawad Rd, Rajkot 360005",Rajkot,2026-01-03
+REV1035,Neha Patel,Vijay Patel,07-08-1988,Female,8270997177,"64 Kalawad Rd, Rajkot 360005",Rajkot,2026-07-08
+REV1036,Mahesh Patel,Vijay Patel,03-05-2007,Male,7014397125,"64 Kalawad Rd, Rajkot 360005",Rajkot,2026-07-03
+REV1037,Nilesh Desai,,21-08-1971,Male,9768343192,"5 Sec 21, Gandhinagar 382021",Gandhinagar,2026-10-17
+REV1038,Hetal Desai,Nilesh Desai,17-08-1972,Female,9768343192,"5 Sec 21, Gandhinagar 382021",Gandhinagar,2026-04-16
+REV1039,Neha Desai,Nilesh Desai,05-05-1993,Female,8785959056,"5 Sec 21, Gandhinagar 382021",Gandhinagar,2026-05-28
+REV1040,Rahul Mehta,,14-06-1978,Male,6052553928,"19 MG Rd, Navrangpura, Ahmedabad 380009",Ahmedabad,2026-03-03
+REV1041,Sonal Mehta,Rahul Mehta,24-03-1979,Female,6052553928,"19 MG Rd, Navrangpura, Ahmedabad 380009",Ahmedabad,2026-02-01
+REV1042,Rakesh Joshi,,02-05-1974,Male,6389772298,"77 CG Road, Navrangpura, Ahmedabad 380009",Ahmedabad,2026-03-19
+REV1043,Hetal Joshi,Rakesh Joshi,19-07-1977,Female,6389772298,"77 CG Road, Navrangpura, Ahmedabad 380009",Ahmedabad,2026-10-22
+REV9001,RAAHUL SHAH,Rahul Shah,15-03-2011,Male,7011288006,"7 CG Road, Navrangpura, Ahmedabad 380009",Ahmedabad,2026-09-09
