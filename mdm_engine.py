@@ -1,19 +1,4 @@
-"""
-Citizen MDM engine (demo)
--------------------------
-Pure Python + pandas. No external NLP libraries, so it runs anywhere.
 
-Pipeline:
-    load sources -> map columns -> standardise (name, DOB, phone, address)
-    -> data-quality rules (critical => quarantine, warning => flag)
-    -> blocking -> pairwise scoring -> decision (auto / review / no match)
-    -> clustering (auto + steward-approved) -> survivorship -> golden records
-    -> household linking
-
-Production note: the same logic maps 1:1 to PySpark on Cloudera Data Engineering;
-transliteration can be swapped for AI4Bharat IndicXlit and phone parsing for
-Google libphonenumber.
-"""
 from __future__ import annotations
 
 import re
